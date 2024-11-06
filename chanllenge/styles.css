@@ -1,0 +1,94 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.content{
+    display: flex;
+    flex-flow: column;
+    
+}
+.content{
+    text-align: center;
+    background-color: hsl(0, 0%, 12%);
+    align-items: center;
+    margin: 50px;
+    border: 1px light hsl(0, 0%, 20%);
+    border-radius: 12px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 30px 30px
+}
+
+a{
+    font-family: inter;
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+}
+
+p{
+    color:  hsl(0, 0%, 100%);
+}
+
+h1{
+   color:  hsl(0, 0%, 100%);
+}
+
+h3{
+    color:  hsl(75, 94%, 57%);
+}
+
+nav ul{
+    list-style-type: none;
+    font-size: 14px;
+}
+
+img{
+    margin: 20px;
+    height: 110px;
+    border-radius: 50%;
+}
+
+li{
+    background-color:  hsl(0, 0%, 20%);
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
+li{
+    display: block;
+    width: 300px;
+}
+
+li{
+    position: relative;
+    right: 20px;
+}
+
+li:hover{
+    position: relative;
+    bottom: 3px;
+}
+
+.content{
+    font-family: sans-serif;
+}
+
+h3{
+    position: relative;
+    top: -10px;
+}
+
+.attribution{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+}
